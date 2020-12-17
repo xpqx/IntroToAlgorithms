@@ -18,6 +18,9 @@ assuming zero-based array-indexing, P occurs 1 start at the
 #TODO
 
 - [ ] implement the naive string matching algorithm
+   - [x] implement naive-string-matcher in lua
+   - [ ] implement naive-string matcher in C++
+   - [ ] implement naive-string matcher in java
 - [ ] implement Rabin-Karp string matching algorithm
 - [ ] implement Knuth-Morris-Pratt
 - [ ] implement finite-automata matching algorithm
