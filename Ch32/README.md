@@ -19,9 +19,12 @@ assuming zero-based array-indexing, P occurs 1 start at the
 
 - [ ] implement the naive string matching algorithm
    - [x] implement naive-string-matcher in lua
-   - [ ] implement naive-string matcher in C++
+   - [x] implement naive-string matcher in C++
    - [ ] implement naive-string matcher in java
 - [ ] implement Rabin-Karp string matching algorithm
+   - [x] implement Rabin-Karp in lua
+   - [ ] implement Rabin-Karp matcher in C++
+   - [ ] implement Rabin-Karp matcher in java
 - [ ] implement Knuth-Morris-Pratt
 - [ ] implement finite-automata matching algorithm
 - [ ] answer a selection of the exercises
