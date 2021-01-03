@@ -22,7 +22,12 @@ function Rabin_Karp_Matcher(Target,Pattern,prime)
 	  break
 	end
       end
+    end
 
     if shift < Tlen-Plen then
       Tmod = (10*(Tmod-Target:sub(shift+1,shift+1)*highbitpos) +
              Target:sub(shift+i+Plen+1,shift+i+Plen+1))%prime
+    end
+  end
+end
+  

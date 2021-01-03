@@ -1,4 +1,4 @@
-# IntroToAlgorithms
+# IntroToAlgorithms (xpqx version)
 repo for solutions to the famous algorithms book "Introduction to Algorithms" by Cormen et al.
 
 # Goals
@@ -10,6 +10,8 @@ each algorithm and data structure that is presented in the book.
 
 For C++ and Java on the other hand, it would probably be best to have 
 the proposed solutions in the OOP. 
+
+Some solutions will be presented using the Ocaml programming language.
 
 For Presentation purposes, we should explore how to write math equations 
 on here.
