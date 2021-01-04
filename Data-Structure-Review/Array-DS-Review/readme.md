@@ -1,2 +1,0 @@
-# Array Data Structure Review
-
