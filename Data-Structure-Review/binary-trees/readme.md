@@ -1,10 +1,13 @@
 # Binary Trees Review
 
+## Some Facts on Trees
+
 - Binary trees are fundamental data structures that provide some advantages that arrays and linked list cannot.
 - Binary trees provide the benefits provided by Linked List such as quick insertions and deletions while also providing quick searching of an array.
 - Trees are actually instances of a more general structure called a graph. Thus, trees are a type of graph.
 - Binary trees are a specialized form of a tree. Each node in a binary tree has two children.
-
+- Trees are probably the single most useful data structure. When compared to other simpler data structures, trees have comparatively fast searching, insertion, and deletion. This is not the case with other simpler data structures.
+- When storing large amounts of data, a tree is usually the first storage structure you should consider.
 
 # Tree Terminology
 
