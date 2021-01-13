@@ -12,3 +12,9 @@ Chapter 1."
 #### Ch2 Page 17
 - "We start with insertion sort, which is an efficient algorithm for sorting a small number of elements."
 - I think the above sentence should read: We start with insertion sort, __which just like bubble sort,__ is an efficient algorithm for sorting a small number of elements.
+
+
+#### Ch4 Section 4.1 Page 69
+
+- "Suppose that you been offered the opportunity to invest in the Volatile Chemical Corporation."
+- The sentence above should read, "Suppose that you __have__ been offered the opportunity to invest in the Volatile Chemical Corporation."
